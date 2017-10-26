@@ -9,7 +9,7 @@ DEPENDS = "ocaml-cross ocaml-findlib-cross"
 
 PR = "r0"
 
-SRC_URI = "http://github.com/yoriyuki/Camomile/releases/download/rel-0.8.5/camomile-0.8.5.tar.bz2 \
+SRC_URI = "https://github.com/yoriyuki/Camomile/releases/download/rel-0.8.5/camomile-0.8.5.tar.bz2 \
            file://ocaml-camomile-destdir.patch;patch=1 \
 "
 #
